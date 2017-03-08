@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Frases App</string>
+    <string name="hello">Hello World!</string>
+    <string name="frase">"\""Não significa que você é falso, quando você é legal com alguém que você não gosta. Significa que você é maduro o suficiente pra ser educado."\""</string>
+    <string name="menu_item_sobre">Sobre</string>
+    <string name="menu_item_atualizar">Atualizar</string>
+</resources>
